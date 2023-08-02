@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @linnea-vdb
 - 👀 I’m interested in lots of stuff
 - 🌱 I’m currently learning: nothing?
-- 💞️ I’m looking to collaborate on nothing really
+- 💞️ I’m looking to collaborate on BoomReal.
+
 - 📫 How to reach me: don't.
 
 <!---
