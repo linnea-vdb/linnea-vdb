@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linnea-vdb
-- 👀 I’m interested in lots of stuff
-- 🌱 I’m currently learning: nothing?
-- 💞️ I’m looking to collaborate on BoomReal.
+- 👀 I’m interested in learning how to code in HTML
+- 🌱 I’m currently learning: how to code in HTML
+- 💞️ I’m not looking to collaborate
 
 - 📫 How to reach me: don't.
 
